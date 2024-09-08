@@ -50,6 +50,7 @@
 #include <initializer_list>
 #include <limits>
 #include <type_traits>
+#include <limits>
 
 //
 //  W A R N I N G
